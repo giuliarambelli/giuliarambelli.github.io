@@ -1,0 +1,43 @@
+---
+---
+
+/*
+  If the number of TAB files has changed, the following variable is required.
+  And it must be defined before `@import`.
+*/
+$tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
+
+@import "{{ site.theme }}";
+
+/* append your custom style below */
+
+
+.site-title {
+  font-family: "PT Sans Narrow",sans-serif;
+}
+
+
+.pubitem {
+  margin: 2em 0;
+  line-height: 1em;
+}
+
+.pubtitle {
+  margin-bottom: 0.5em;
+  line-height: 1.2em;
+  font-weight: bold;
+}
+
+.pubauthors,
+.pubinfo {
+  font-size: 75%;
+  margin-bottom: 0.75em;
+}
+
+.publinks {
+  font-size: 75%;
+  padding: 5px 0.4rem 5px 0.4rem;
+  border-radius: 0.2rem;
+  color: #08c;
+  border-color: #08c;
+}
