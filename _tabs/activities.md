@@ -4,6 +4,7 @@ icon: fas fa-stream
 order: 3
 ---
 
+**November 7, 2022**  – First in presence meeting of the ABSTRACTION team at UniBo!
 
 **November 1, 2022**  – Today I started as a postoctoral researcher in <a href="https://www.abstractionproject.eu/"></a>ABSTRACTION team! Looking forward to this new adventure :)
 

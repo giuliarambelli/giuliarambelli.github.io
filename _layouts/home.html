@@ -3,7 +3,7 @@ layout: page
 # The Home page layout
 ---
 <h1></h1>
-<div>I am a Post-doc for the ABSTRACTION project. I obtained a joint PhD degree in Linguistics from the University of Pisa (Italy) and Aix-Marseille University (France). My research is at the intersection between theoretical linguistics, cognitive science, and machine learning. I investigate the meaning aspects of language, interested in the underlying mechanisms in sentence interpretation and productivity. In my thesis, I investigated the balance between compositional and direct access to meaning, and how the cognitive process of analogy can be represented as a source of linguistic productivity from a theoretical and computational perspective.</div>
+<div>I am a Post-doc for the <a href="https://www.abstractionproject.eu/">ABSTRACTION</a> project. I obtained a joint PhD degree in Linguistics from the University of Pisa (Italy) and Aix-Marseille University (France). My research is at the intersection between theoretical linguistics, cognitive science, and machine learning. I investigate the meaning aspects of language, interested in the underlying mechanisms in sentence interpretation and productivity. In my thesis, I studied the balance between compositional and direct access to meaning, and how the cognitive process of analogy can be represented as a source of linguistic productivity from a theoretical and computational perspective.</div>
 
 
 <h2>Latest publications</h2>
@@ -14,6 +14,18 @@ layout: page
        <li> {{ pub.authors }} ({{ pub.year}}). <em>{{ pub.title }}</em>. {{ pub.publication_short }}</li>
 {% endfor %}
 </ul>
+
+    <!-- the real tabs -->
+    {% for tab in site.tabs %}
+    {% capture tab_name %}{{ tab.url | split: '/' }}{% endcapture %}
+    {% if tab_name=="publications" %}
+         <a href="{{ tab.url | relative_url }}" class="nav-link">
+        See all publications
+      </a>
+
+    {% endif %}
+    {% endfor %}
+
 
 <!--
 {% assign pinned = site.posts | where: "pin", "true" %}
