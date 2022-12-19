@@ -3,6 +3,8 @@ layout: page
 icon: fas fa-stream
 order: 3
 ---
+**December 13, 2022** – I gave a talk in the Master course "Teoria del Lessico / Semantica e Lessico" organized by professor Francesca Masini @ UniBo.
+
 **November 20, 2022** – I presented my work on at <a href="https://sites.google.com/view/cogalexvii2022/home">CogAlex VII</a> workshop!
 
 **November 7, 2022**  – First in presence meeting of the ABSTRACTION team at UniBo!
