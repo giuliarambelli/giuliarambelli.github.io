@@ -3,9 +3,13 @@ layout: page
 icon: fas fa-stream
 order: 3
 ---
+**May 6, 2023** – Best Paper Honorable Mention at the <a href="https://multiword.org/mwe2023/"> MWE 2023 Workshop</a>🥈:"Are Frequent Phrases Directly Retrieved like Idioms? An Investigation with Self-Paced Reading and Language Models". Thanks to all the amazing and cool collaborators! 
+
+**May 4-6, 2023** – I attended <a href="https://2023.eacl.org/">EACL 2023</a> at Dubrovnik (Croatia). So nice to attend in person after the pandemic!
+
 **February 1, 2023** – I followed online <a href="https://sites.google.com/view/compcog23/home">CompCog2023</a>. Great tutorial from prof. <a href="http://hello.csqsiew.xyz/">Cynthia Siew</a> (National University of Singapore) called Network Analysis for Psycholinguists.
 
-**Janyary 11**   – I followed the talk of Tmmaso Caselli at UniBo.
+**Janyary 11**   – I followed the talk of Tommaso Caselli at UniBo.
 
 **December 13, 2022** – I gave a talk in the Master course "Teoria del Lessico / Semantica e Lessico" organized by professor Francesca Masini @ UniBo.
 
