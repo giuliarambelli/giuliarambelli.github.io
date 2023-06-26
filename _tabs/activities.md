@@ -3,7 +3,12 @@ layout: page
 icon: fas fa-stream
 order: 3
 ---
-**May 6, 2023** – Best Paper Honorable Mention at the <a href="https://multiword.org/mwe2023/"> MWE 2023 Workshop</a>🥈:"Are Frequent Phrases Directly Retrieved like Idioms? An Investigation with Self-Paced Reading and Language Models". Thanks to all the amazing and cool collaborators! 
+**June 20-23, 2023**  – I presented the work *Contextual Variability Depends on Categorical Specificity rather than
+Conceptual Concreteness: A Distributional Investigation on Italian data* at <a href="https://iwcs2023.loria.fr/">IWCS 2023</a> held in Nancy (France). 
+
+**May 29-31, 2023** – I attended the <a href="https://www.ai-lc.it/en/lectures-2/lectures-2023/#:~:text=The%202023%20edition%20of,at%20the%20University%20of%20Pisa.">Lectures on Computational Liguistics</a> (organized by <a href="https://www.ai-lc.it/en/">AILC</a>) in Pisa. They were three very intensive days, but it was so nice to see lots of old colleagues! 
+
+**May 6, 2023** – Best Paper Honorable Mention at the <a href="https://multiword.org/mwe2023/"> MWE 2023 Workshop</a>🥈:*Are Frequent Phrases Directly Retrieved like Idioms? An Investigation with Self-Paced Reading and Language Models*. Thanks to all the amazing and cool collaborators! 
 
 **May 4-6, 2023** – I attended <a href="https://2023.eacl.org/">EACL 2023</a> at Dubrovnik (Croatia). So nice to attend in person after the pandemic!
 
