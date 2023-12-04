@@ -3,6 +3,9 @@ layout: page
 icon: fas fa-stream
 order: 3
 ---
+**December 1st, 2023** – Our paper got accepted at <a href="https://clic2023.ilc.cnr.it/">CliC-It 2023</a> (Venice, Italy)! I also presented two research communication papers as posters: *Compositionality as an Analogical Process: Introducing ANNE* (CogALex 2022) and *Contextual Variability Depends on Categorical Specificity rather than Conceptual Concreteness: A Distributional Investigation on Italian data* (IWCS 2023). Find out more in [Publications]({{ site.baseurl }}{% link _tabs/publications.md %}) section
+
+
 **June 20-23, 2023**  – I presented the work *Contextual Variability Depends on Categorical Specificity rather than
 Conceptual Concreteness: A Distributional Investigation on Italian data* at <a href="https://iwcs2023.loria.fr/">IWCS 2023</a> held in Nancy (France). 
 
