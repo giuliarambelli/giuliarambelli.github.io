@@ -22,6 +22,9 @@ order: 2
     {% if pub.url_slides != '' %}
     <a href="{{ pub.url_slides }}"><i class="fab fa-slideshare"></i> Slides</a> 
     {% endif %}
+    {% if pub.url_poster != '' %}
+    <a href="{{ pub.url_poster }}"><i class="fab fa-slideshare"></i> Poster</a> 
+    {% endif %}
     {% if pub.url_video != '' %}
     <a href="{{ pub.url_video }}"><i class="fab fa-youtube"></i> Video</a> 
     {% endif %}

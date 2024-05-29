@@ -3,8 +3,13 @@ layout: page
 icon: fas fa-stream
 order: 3
 ---
-**December 1st, 2023** – Our paper got accepted at <a href="https://clic2023.ilc.cnr.it/">CliC-It 2023</a> (Venice, Italy)! I also presented two research communication papers as posters: *Compositionality as an Analogical Process: Introducing ANNE* (CogALex 2022) and *Contextual Variability Depends on Categorical Specificity rather than Conceptual Concreteness: A Distributional Investigation on Italian data* (IWCS 2023). Find out more in [Publications]({{ site.baseurl }}{% link _tabs/publications.md %}) section
+**May 20th, 2024** – ABSTRACTION team goes to <a href="https://lrec-coling-2024.org/">LREC-COLING 2024</a>! We got 2 papers in the main conference. I'll present the poster *The Contextual Variability of English Nouns: The Impact of Categorical Specificity beyond Conceptual Concreteness* on May, 22nd at 11am. Find the paper and related materials in [Publications]({{site.baseurl }}{% link _tabs/publications.md %}) section
 
+**May 15th, 2024** – We got two papers accepted to the main conference of ACL 2024! *Can Large Language Models Interpret Noun-Noun Compounds? A Linguistically-Motivated Study on Lexicalized and Novel Compounds* (Rambelli, Chersoni, Collacciani, Bolognesi) and *Quantifying Generalizations: Exploring the Divide Between Human and LLMs’ Sensitivity to Quantification* (Collacciani, Rambelli, Bolognesi). See you in Bangkok!
+
+**May, 13th-14th** – I followed online this amazing event: <a href="https://newhorizonsinlanguagescience.github.io/">New Horizons in Language Science: Large Language Models, Language Structure, and the Cognitive and Neural Basis of Language</a>.  That was some great food for thought! 
+
+**December 1st, 2023** – Our paper got accepted at <a href="https://clic2023.ilc.cnr.it/">CliC-It 2023</a> (Venice, Italy)! I also presented two research communication papers as posters: *Compositionality as an Analogical Process: Introducing ANNE* (CogALex 2022) and *Contextual Variability Depends on Categorical Specificity rather than Conceptual Concreteness: A Distributional Investigation on Italian data* (IWCS 2023). Find out more in [Publications]({{site.baseurl }}{% link _tabs/publications.md %}) section
 
 **June 20-23, 2023**  – I presented the work *Contextual Variability Depends on Categorical Specificity rather than
 Conceptual Concreteness: A Distributional Investigation on Italian data* at <a href="https://iwcs2023.loria.fr/">IWCS 2023</a> held in Nancy (France). 

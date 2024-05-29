@@ -35,9 +35,14 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
 }
 
 .publinks {
-  font-size: 75%;
-  padding: 5px 0.4rem 5px 0.4rem;
+  font-size: 90%;
+  padding: 5px 0.4rem 10px 0.4rem;
   border-radius: 0.2rem;
   color: #08c;
   border-color: #08c;
+}
+
+
+.publinks a {
+  margin-right: 10px;
 }
