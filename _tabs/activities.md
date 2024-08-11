@@ -3,6 +3,7 @@ layout: page
 icon: fas fa-stream
 order: 3
 ---
+
 **August 11th, 2024** - I arrived in Bangkok for attending <a href="https://2024.aclweb.org/">ACL2024</a>! 
 I will present two papers from ABSTRACTION project: "Can Large Language Models Interpret Noun-Noun Compounds? A Linguistically-Motivated Study on Lexicalized and Novel Compounds" at 𝗽𝗼𝘀𝘁𝗲𝗿 𝘀𝗲𝘀𝘀𝗶𝗼𝗻 5 (August 13 @ 16:00) 𝗮𝗻𝗱 "Quantifying Generalizations: Exploring the Divide Between Human and LLMs’ Sensitivity to Quantification" at  𝗽𝗼𝘀𝘁𝗲𝗿 𝘀𝗲𝘀𝘀𝗶𝗼𝗻 6 (August 14 @ 10:30). 
 See you there! 
