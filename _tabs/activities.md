@@ -3,6 +3,20 @@ layout: page
 icon: fas fa-stream
 order: 3
 ---
+**August 11th, 2024** - I arrived in Bangkok for attending <a href="https://2024.aclweb.org/">ACL2024</a>! 
+I will present two papers from ABSTRACTION project: "Can Large Language Models Interpret Noun-Noun Compounds? A Linguistically-Motivated Study on Lexicalized and Novel Compounds" at 𝗽𝗼𝘀𝘁𝗲𝗿 𝘀𝗲𝘀𝘀𝗶𝗼𝗻 5 (August 13 @ 16:00) 𝗮𝗻𝗱 "Quantifying Generalizations: Exploring the Divide Between Human and LLMs’ Sensitivity to Quantification" at  𝗽𝗼𝘀𝘁𝗲𝗿 𝘀𝗲𝘀𝘀𝗶𝗼𝗻 6 (August 14 @ 10:30). 
+See you there! 
+
+**August 7th, 2024 ** - I was invited to give a talk "Word Specificity: A Measure to Investigate Semantic Abstraction and Linguistic Creativity" in the CBS Seminars at Hong Kong PolyU. Thank you for prof. Emmanuele Chersoni for inviting me and for the in-person and online attendees!
+
+**August 4th, 2024** - I had the opportunity to talk and hear about analogy by attending <a="https://analogy-angle.github.io/">The First Workshop on Analogical Abstraction in Cognition, Perception, and Language (Analogy-ANGLE)</a> (co-located with IJCAI 2024) in Jeju (South Korea).
+I presented two research dissemination papers: "Can Large Language Models Interpret Noun-Noun Compounds? A Linguistically-Motivated Study on Lexicalized and Novel Compounds" (accepted at ACL 2024!) and "Compositionality as an Analogical Process: Introducing ANNE" (presented at CogALex in 2022).
+Moreover, I had the honour to partecipate to a round table with the invited speakers. Lots of food for thoughts!
+
+**June 19th-21st, 2024** - I attended the <a href="https://www.ai-lc.it/en/lectures-2/lectures-2024/">Lectures on Computational Linguistics</a> in Bary (Italy). As always, it was a great occasion to meet people from Italian (and international) CL and NLP community!
+
+**June 6th, 2024** - I presented my advances in the ABSTRACTION projet at Trinity Colledge (Dublin, Ireland). "Word Specificity: A Measure to Investigate Semantic Abstraction and Linguistic Creativity"
+
 **May 20th, 2024** – ABSTRACTION team goes to <a href="https://lrec-coling-2024.org/">LREC-COLING 2024</a>! We got 2 papers in the main conference. I'll present the poster *The Contextual Variability of English Nouns: The Impact of Categorical Specificity beyond Conceptual Concreteness* on May, 22nd at 11am. Find the paper and related materials in [Publications]({{site.baseurl }}{% link _tabs/publications.md %}) section
 
 **May 15th, 2024** – We got two papers accepted to the main conference of ACL 2024! *Can Large Language Models Interpret Noun-Noun Compounds? A Linguistically-Motivated Study on Lexicalized and Novel Compounds* (Rambelli, Chersoni, Collacciani, Bolognesi) and *Quantifying Generalizations: Exploring the Divide Between Human and LLMs’ Sensitivity to Quantification* (Collacciani, Rambelli, Bolognesi). See you in Bangkok!
