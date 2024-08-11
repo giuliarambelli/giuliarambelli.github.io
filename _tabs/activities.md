@@ -9,7 +9,7 @@ See you there!
 
 **August 7th, 2024 ** - I was invited to give a talk "Word Specificity: A Measure to Investigate Semantic Abstraction and Linguistic Creativity" in the CBS Seminars at Hong Kong PolyU. Thank you for prof. Emmanuele Chersoni for inviting me and for the in-person and online attendees!
 
-**August 4th, 2024** - I had the opportunity to talk and hear about analogy by attending <a="https://analogy-angle.github.io/">The First Workshop on Analogical Abstraction in Cognition, Perception, and Language (Analogy-ANGLE)</a> (co-located with IJCAI 2024) in Jeju (South Korea).
+**August 4th, 2024** - I had the opportunity to talk and hear about analogy by attending <a href="https://analogy-angle.github.io/">The First Workshop on Analogical Abstraction in Cognition, Perception, and Language (Analogy-ANGLE)</a> (co-located with IJCAI 2024) in Jeju (South Korea).
 I presented two research dissemination papers: "Can Large Language Models Interpret Noun-Noun Compounds? A Linguistically-Motivated Study on Lexicalized and Novel Compounds" (accepted at ACL 2024!) and "Compositionality as an Analogical Process: Introducing ANNE" (presented at CogALex in 2022).
 Moreover, I had the honour to partecipate to a round table with the invited speakers. Lots of food for thoughts!
 
