@@ -6,6 +6,7 @@ order: 3
 
 **August 11th, 2024** - I arrived in Bangkok for attending <a href="https://2024.aclweb.org/">ACL2024</a>! 
 I will present two papers from ABSTRACTION project: "Can Large Language Models Interpret Noun-Noun Compounds? A Linguistically-Motivated Study on Lexicalized and Novel Compounds" at 𝗽𝗼𝘀𝘁𝗲𝗿 𝘀𝗲𝘀𝘀𝗶𝗼𝗻 5 (August 13 @ 16:00) 𝗮𝗻𝗱 "Quantifying Generalizations: Exploring the Divide Between Human and LLMs’ Sensitivity to Quantification" at  𝗽𝗼𝘀𝘁𝗲𝗿 𝘀𝗲𝘀𝘀𝗶𝗼𝗻 6 (August 14 @ 10:30). 
+Moreover, I am one of the organizers of the CMCL workshop on the 15th.
 See you there! 
 
 **August 7th, 2024 ** - I was invited to give a talk "Word Specificity: A Measure to Investigate Semantic Abstraction and Linguistic Creativity" in the CBS Seminars at Hong Kong PolyU. Thank you for prof. Emmanuele Chersoni for inviting me and for the in-person and online attendees!
