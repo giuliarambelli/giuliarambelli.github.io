@@ -3,7 +3,7 @@ layout: page
 icon: fas fa-stream
 order: 3
 ---
-##2024
+## 2024
 
 **September 23, 2024** - I attended [Philip Wicke](https://www.phil-wicke.com/)(LMU, Munich)'s seminar  "Exploring Spatial Intuitions and Analogical Reasoning in Large Language Models" organized by ABSTRACTION. 
 &#91;[video](https://www.youtube.com/watch?v=dMvE5IjtI7g&feature=youtu.be)&#93; 
