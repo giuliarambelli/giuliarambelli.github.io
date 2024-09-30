@@ -35,7 +35,7 @@ Moreover, I had the honour to partecipate to a round table with the invited spea
 
 **May 13th-14th, 2024** – I followed online this amazing event: <a href="https://newhorizonsinlanguagescience.github.io/">New Horizons in Language Science: Large Language Models, Language Structure, and the Cognitive and Neural Basis of Language</a>.  That was some great food for thought! 
 
-##2023
+## 2023
 
 **December 1st, 2023** – Our paper got accepted at <a href="https://clic2023.ilc.cnr.it/">CliC-It 2023</a> (Venice, Italy)! I also presented two research communication papers as posters: *Compositionality as an Analogical Process: Introducing ANNE* (CogALex 2022) and *Contextual Variability Depends on Categorical Specificity rather than Conceptual Concreteness: A Distributional Investigation on Italian data* (IWCS 2023). Find out more in [Publications]({{site.baseurl }}{% link _tabs/publications.md %}) section
 
@@ -52,7 +52,7 @@ Conceptual Concreteness: A Distributional Investigation on Italian data* at <a h
 
 **January 11st, 2023**   – I followed the talk of Tommaso Caselli at UniBo.
 
-##2022
+## 2022
 
 **December 13, 2022** – I gave a talk in the Master course "Teoria del Lessico / Semantica e Lessico" organized by professor Francesca Masini @ UniBo.
 
