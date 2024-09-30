@@ -3,6 +3,8 @@ layout: page
 icon: fas fa-stream
 order: 3
 ---
+##2024
+
 **September 23, 2024** - I attended Philip Wicke's seminar  "Exploring Spatial Intuitions and Analogical Reasoning in Large Language Models" organized by ABSTRACTION. 
 &#91;[video](https://www.youtube.com/watch?v=dMvE5IjtI7g&feature=youtu.be)&#93; 
 
@@ -31,22 +33,26 @@ Moreover, I had the honour to partecipate to a round table with the invited spea
 
 **May 15th, 2024** – We got two papers accepted to the main conference of ACL 2024! *Can Large Language Models Interpret Noun-Noun Compounds? A Linguistically-Motivated Study on Lexicalized and Novel Compounds* (Rambelli, Chersoni, Collacciani, Bolognesi) and *Quantifying Generalizations: Exploring the Divide Between Human and LLMs’ Sensitivity to Quantification* (Collacciani, Rambelli, Bolognesi). See you in Bangkok!
 
-**May, 13th-14th** – I followed online this amazing event: <a href="https://newhorizonsinlanguagescience.github.io/">New Horizons in Language Science: Large Language Models, Language Structure, and the Cognitive and Neural Basis of Language</a>.  That was some great food for thought! 
+**May 13th-14th, 2024** – I followed online this amazing event: <a href="https://newhorizonsinlanguagescience.github.io/">New Horizons in Language Science: Large Language Models, Language Structure, and the Cognitive and Neural Basis of Language</a>.  That was some great food for thought! 
+
+##2023
 
 **December 1st, 2023** – Our paper got accepted at <a href="https://clic2023.ilc.cnr.it/">CliC-It 2023</a> (Venice, Italy)! I also presented two research communication papers as posters: *Compositionality as an Analogical Process: Introducing ANNE* (CogALex 2022) and *Contextual Variability Depends on Categorical Specificity rather than Conceptual Concreteness: A Distributional Investigation on Italian data* (IWCS 2023). Find out more in [Publications]({{site.baseurl }}{% link _tabs/publications.md %}) section
 
-**June 20-23, 2023**  – I presented the work *Contextual Variability Depends on Categorical Specificity rather than
+**June 20th-23th, 2023**  – I presented the work *Contextual Variability Depends on Categorical Specificity rather than
 Conceptual Concreteness: A Distributional Investigation on Italian data* at <a href="https://iwcs2023.loria.fr/">IWCS 2023</a> held in Nancy (France). 
 
-**May 29-31, 2023** – I attended the <a href="https://www.ai-lc.it/en/lectures-2/lectures-2023/#:~:text=The%202023%20edition%20of,at%20the%20University%20of%20Pisa.">Lectures on Computational Liguistics</a> (organized by <a href="https://www.ai-lc.it/en/">AILC</a>) in Pisa. They were three very intensive days, but it was so nice to see lots of old colleagues! 
+**May 29th-31st, 2023** – I attended the <a href="https://www.ai-lc.it/en/lectures-2/lectures-2023/#:~:text=The%202023%20edition%20of,at%20the%20University%20of%20Pisa.">Lectures on Computational Liguistics</a> (organized by <a href="https://www.ai-lc.it/en/">AILC</a>) in Pisa. They were three very intensive days, but it was so nice to see lots of old colleagues! 
 
-**May 6, 2023** – Best Paper Honorable Mention at the <a href="https://multiword.org/mwe2023/"> MWE 2023 Workshop</a>🥈:*Are Frequent Phrases Directly Retrieved like Idioms? An Investigation with Self-Paced Reading and Language Models*. Thanks to all the amazing and cool collaborators! 
+**May 6th, 2023** – Best Paper Honorable Mention at the <a href="https://multiword.org/mwe2023/"> MWE 2023 Workshop</a>🥈:*Are Frequent Phrases Directly Retrieved like Idioms? An Investigation with Self-Paced Reading and Language Models*. Thanks to all the amazing and cool collaborators! 
 
-**May 4-6, 2023** – I attended <a href="https://2023.eacl.org/">EACL 2023</a> at Dubrovnik (Croatia). So nice to attend in person after the pandemic!
+**May 4th-6th, 2023** – I attended <a href="https://2023.eacl.org/">EACL 2023</a> at Dubrovnik (Croatia). So nice to attend in person after the pandemic!
 
-**February 1, 2023** – I followed online <a href="https://sites.google.com/view/compcog23/home">CompCog2023</a>. Great tutorial from prof. <a href="http://hello.csqsiew.xyz/">Cynthia Siew</a> (National University of Singapore) called Network Analysis for Psycholinguists.
+**February 1st, 2023** – I followed online <a href="https://sites.google.com/view/compcog23/home">CompCog2023</a>. Great tutorial from prof. <a href="http://hello.csqsiew.xyz/">Cynthia Siew</a> (National University of Singapore) called Network Analysis for Psycholinguists.
 
-**Janyary 11**   – I followed the talk of Tommaso Caselli at UniBo.
+**January 11st, 2023**   – I followed the talk of Tommaso Caselli at UniBo.
+
+##2022
 
 **December 13, 2022** – I gave a talk in the Master course "Teoria del Lessico / Semantica e Lessico" organized by professor Francesca Masini @ UniBo.
 
