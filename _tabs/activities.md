@@ -5,11 +5,11 @@ order: 3
 ---
 ##2024
 
-**September 23, 2024** - I attended Philip Wicke's seminar  "Exploring Spatial Intuitions and Analogical Reasoning in Large Language Models" organized by ABSTRACTION. 
+**September 23, 2024** - I attended [Philip Wicke](https://www.phil-wicke.com/)(LMU, Munich)'s seminar  "Exploring Spatial Intuitions and Analogical Reasoning in Large Language Models" organized by ABSTRACTION. 
 &#91;[video](https://www.youtube.com/watch?v=dMvE5IjtI7g&feature=youtu.be)&#93; 
 
-**September 20, 2024** - I attended the Tony Veale's seminars "Why So Serious Building AIs with a Real Sense of Humour" &#91;[video](https://www.youtube.com/watch?v=v_I5JPKnvh8) 
-and "Me, Myself and Irony Exploring different facets of Irony with Analogies and LLMs" &#91;[video](https://youtu.be/CGKswAE9K9U) organized by ABSTRACTION.
+**September 20, 2024** - I attended prof.[Tony Veale](https://people.ucd.ie/tony.veale) (UCD, Dublin)'s seminars "Why So Serious Building AIs with a Real Sense of Humour" &#91;[video](https://www.youtube.com/watch?v=v_I5JPKnvh8)&#93; 
+and "Me, Myself and Irony Exploring different facets of Irony with Analogies and LLMs" &#91;[video](https://youtu.be/CGKswAE9K9U)&#93; organized by ABSTRACTION.
 
 **August 15th, 2024** - We organized 13th edition of the [Workshop on Cognitive Modeling and Computational Linguistics (CMCL 2024)](https://cmclorg.github.io/) co-located with ACL 2024,
 Thanks to the other organizers Tatsuki Kuribayashi, Ece Takmaz, Philipp Wicke, Yohei Oseki.
