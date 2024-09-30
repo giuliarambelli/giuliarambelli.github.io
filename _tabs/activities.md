@@ -8,7 +8,8 @@ order: 3
 **September 20, 2024** - 
 
 **August 15th, 2024** - We organized 13th edition of the Workshop on Cognitive Modeling and Computational Linguistics (CMCL 2024) co-located with ACL 2024,
-Tatsuki Kuribayashi, Giulia Rambelli, Ece Takmaz, Philipp Wicke, Yohei Oseki.  [proceedings](www.google.it)[web]
+Thanks to the other organizers Tatsuki Kuribayashi, Ece Takmaz, Philipp Wicke, Yohei Oseki.
+\[[proceedings](https://aclanthology.org/volumes/2024.cmcl-1/)\] [web](https://cmclorg.github.io/)
 
 **August 11th, 2024** - I arrived in Bangkok for attending <a href="https://2024.aclweb.org/">ACL2024</a>! 
 I will present two papers from ABSTRACTION project: "Can Large Language Models Interpret Noun-Noun Compounds? A Linguistically-Motivated Study on Lexicalized and Novel Compounds" at poster session 5 (August 13 @ 16:00) and "Quantifying Generalizations: Exploring the Divide Between Human and LLMs’ Sensitivity to Quantification" at  poster session 6 (August 14 @ 10:30). 
