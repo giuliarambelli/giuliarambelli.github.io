@@ -3,13 +3,14 @@ layout: page
 icon: fas fa-stream
 order: 3
 ---
-**September 23, 2024** - 
+**September 23, 2024** - I attended Philip Wicke's seminar  "Exploring Spatial Intuitions and Analogical Reasoning in Large Language Models" organized by ABSTRACTION. 
+&#91;[video](https://www.youtube.com/watch?v=dMvE5IjtI7g&feature=youtu.be)&#93; 
 
-**September 20, 2024** - 
+**September 20, 2024** - I attended the 
 
 **August 15th, 2024** - We organized 13th edition of the Workshop on Cognitive Modeling and Computational Linguistics (CMCL 2024) co-located with ACL 2024,
 Thanks to the other organizers Tatsuki Kuribayashi, Ece Takmaz, Philipp Wicke, Yohei Oseki.
-\[[proceedings](https://aclanthology.org/volumes/2024.cmcl-1/)\] [web](https://cmclorg.github.io/)
+ &#91; [proceedings](https://aclanthology.org/volumes/2024.cmcl-1/)\] |  &#91;[web](https://cmclorg.github.io/)&#93;
 
 **August 11th, 2024** - I arrived in Bangkok for attending <a href="https://2024.aclweb.org/">ACL2024</a>! 
 I will present two papers from ABSTRACTION project: "Can Large Language Models Interpret Noun-Noun Compounds? A Linguistically-Motivated Study on Lexicalized and Novel Compounds" at poster session 5 (August 13 @ 16:00) and "Quantifying Generalizations: Exploring the Divide Between Human and LLMs’ Sensitivity to Quantification" at  poster session 6 (August 14 @ 10:30). 

@@ -18,6 +18,16 @@ My research is at the intersection between theoretical linguistics, cognitive sc
 <li>11.08.2024 - I attended ACL 2024 with 2 accepted papers! </li>
 </ul>
 
+ {% for tab in site.tabs %}
+    {% capture tab_name %}{{ tab.url | split: '/' }}{% endcapture %}
+    {% if tab_name=="activities" %}
+         <a href="{{ tab.url | relative_url }}" class="nav-link">
+        See all publications
+      </a>
+
+    {% endif %}
+    {% endfor %}
+
 <h2>Latest publications</h2>
 {% assign publications = site.publications  |  sort: "publications.date" | reverse %}
 
