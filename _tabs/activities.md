@@ -5,6 +5,8 @@ order: 3
 ---
 ## 2024
 
+**December 4-6, 2024** I attend the 10th edition of [CliC-It 2024](https://clic2024.ilc.cnr.it/).  I presented a research communication paper as poster: "Can Large Language Models Interpret Noun-Noun Compounds? A Linguistically-Motivated Study on Lexicalized and Novel Compounds" (from ACL 2024). Very happy to be back in Pisa and meet great researchers and colleagues!
+
 **September 23, 2024** - I attended [Philip Wicke](https://www.phil-wicke.com/)(LMU, Munich)'s seminar  "Exploring Spatial Intuitions and Analogical Reasoning in Large Language Models" organized by ABSTRACTION. 
 &#91;[video](https://www.youtube.com/watch?v=dMvE5IjtI7g&feature=youtu.be)&#93; 
 
