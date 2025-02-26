@@ -3,13 +3,18 @@ layout: page
 icon: fas fa-stream
 order: 3
 ---
+
+## 2025
+
+**February 21, 2025** - Invited talk af VU Amsterdam. I presented the recent advances of ABSTRACTION projets and my talk "What Mechanisms Underlie Linguistic Generalization In Large Language Models? A Study On Noun-noun Compounds".
+
 ## 2024
 
 **December 17, 2024** My book *Constructions and Compositionality: Cognitive and Computational Explorations* (published in Elements in Construction Grammar, Cambridge University Press) is out! Find the PDF [here](https://www.cambridge.org/core/elements/constructions-and-compositionality/FB02CE51043E8F82DCDC8B1E38353D28).
 
-**December 4-6, 2024** I attend the 10th edition of [CliC-It 2024](https://clic2024.ilc.cnr.it/).  I presented a research communication paper as poster: "Can Large Language Models Interpret Noun-Noun Compounds? A Linguistically-Motivated Study on Lexicalized and Novel Compounds" (from ACL 2024). Very happy to be back in Pisa and meet great researchers and colleagues!
+**December 4-6, 2024** -  I attend the 10th edition of [CliC-It 2024](https://clic2024.ilc.cnr.it/).  I presented a research communication paper as poster: "Can Large Language Models Interpret Noun-Noun Compounds? A Linguistically-Motivated Study on Lexicalized and Novel Compounds" (from ACL 2024). Very happy to be back in Pisa and meet great researchers and colleagues!
 
-**November 11, 2024** In 2025, I will be part of the Organizing Commitee of two *ACL located workshops: CMCL 2025 (co-located with NAACL25 on May 3 or 4) and Analogy-angle II (co-located with ACL25 on July 31 or August 1).
+**November 11, 2024** -  In 2025, I will be part of the Organizing Commitee of two *ACL located workshops: CMCL 2025* (co-located with NAACL25 on May 3 or 4) and Analogy-angle II (co-located with ACL25 on July 31 or August 1).
 
 **September 23, 2024** - I attended [Philip Wicke](https://www.phil-wicke.com/)(LMU, Munich)'s seminar  "Exploring Spatial Intuitions and Analogical Reasoning in Large Language Models" organized by ABSTRACTION. 
 &#91;[video](https://www.youtube.com/watch?v=dMvE5IjtI7g&feature=youtu.be)&#93; 
