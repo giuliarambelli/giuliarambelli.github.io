@@ -26,14 +26,13 @@ publishDate: "2024-01-17T00:00:00Z"
 publication_types: ["5"]
 
 # Publication name and optional abbreviated publication name.
-publication: Lorem
-publication_short: Lorem
+publication: Elements in Construction Grammar, Cambridge University
+publication_short: Cambridge University
 
-abstract: Lorem
+abstract: How do we understand any sentence, from the most ordinary to the most creative? The traditional assumption is that we rely on formal rules combining words (compositionality). However, psycho- and neuro-linguistic studies point to a linguistic representation model that aligns with the assumptions of Construction Grammar, where there is no sharp boundary between stored sequences and productive patterns. Evidence suggests that interpretation alternates compositional (incremental) and noncompositional (global) strategies. Accordingly, systematic processes of language productivity are explainable by analogical inferences rather than compositional operations. Novel expressions are understood 'on the fly' by analogy with familiar ones. This Element discusses compositionality, alternative mechanisms in language processing, and explains why Construction Grammar is the most suitable approach for formalizing language comprehension.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+summary: Lorem
 tags: []
 
 # Display this page in the Featured widget?
