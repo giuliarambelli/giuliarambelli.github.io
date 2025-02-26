@@ -10,7 +10,7 @@ order: 3
 
 ## 2024
 
-**December 17, 2024** My book *Constructions and Compositionality: Cognitive and Computational Explorations* (published in Elements in Construction Grammar, Cambridge University Press) is out! Find the PDF [here](https://www.cambridge.org/core/elements/constructions-and-compositionality/FB02CE51043E8F82DCDC8B1E38353D28).
+**December 17, 2024** - My book *Constructions and Compositionality: Cognitive and Computational Explorations* (published in Elements in Construction Grammar, Cambridge University Press) is out! Find the PDF [here](https://www.cambridge.org/core/elements/constructions-and-compositionality/FB02CE51043E8F82DCDC8B1E38353D28).
 
 **December 4-6, 2024** -  I attend the 10th edition of [CliC-It 2024](https://clic2024.ilc.cnr.it/).  I presented a research communication paper as poster: "Can Large Language Models Interpret Noun-Noun Compounds? A Linguistically-Motivated Study on Lexicalized and Novel Compounds" (from ACL 2024). Very happy to be back in Pisa and meet great researchers and colleagues!
 
