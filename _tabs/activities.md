@@ -6,7 +6,7 @@ order: 3
 
 ## 2025
 
-**April 7-May7, 2025** - I'm in Groningen visiting the *Computational Linguistics Group* (Faculty of Arts - Rijksuniversiteit Groningen), collaborating with Prof. Tommaso Caselli on ongoing projects.
+**April 7 - May 7, 2025** - I'm in Groningen visiting the *Computational Linguistics Group* (Faculty of Arts - Rijksuniversiteit Groningen), collaborating with Prof. Tommaso Caselli on ongoing projects.
 
 **April 3, 2025** - I was part of the local organization of the workshop "Conversational Dynamics: How Abstraction and Abstractness Ebb and Flow in Interaction” organized by Caterina Villani and Marianna Bolognesi as part of ABSTRACTION.
 
