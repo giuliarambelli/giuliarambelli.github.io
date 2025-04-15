@@ -6,6 +6,10 @@ order: 3
 
 ## 2025
 
+**April 7-May7, 2025** - I'm in Groningen visiting the *Computational Linguistics Group* (Faculty of Arts - Rijksuniversiteit Groningen), collaborating with Prof. Tommaso Caselli on ongoing projects.
+
+**April 3, 2025** - I was part of the local organization of the workshop "Conversational Dynamics: How Abstraction and Abstractness Ebb and Flow in Interaction” organized by Caterina Villani and Marianna Bolognesi as part of ABSTRACTION.
+
 **February 21, 2025** - Invited talk af VU Amsterdam. I presented the recent advances of ABSTRACTION projets and my talk "What Mechanisms Underlie Linguistic Generalization In Large Language Models? A Study On Noun-noun Compounds".
 
 ## 2024
