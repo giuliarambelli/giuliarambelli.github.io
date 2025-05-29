@@ -1,6 +1,6 @@
 ---
 layout: page
-icon: fas fa-archive
+icon: fas fa-file-alt
 order: 2
 ---
 

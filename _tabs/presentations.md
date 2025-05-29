@@ -1,6 +1,6 @@
 ---
 layout: page
-icon: fas fa-stream
+icon: fas fa-chalkboard
 order: 4
 ---
 
