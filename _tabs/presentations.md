@@ -5,7 +5,7 @@ order: 4
 ---
 
 ### 2025
-
+- May 19 -- *ABSTRACTION: Unlocking meaning from experience through language.* Presentation with prof. Marianna Bolognesi at the "Analogy and Abstraction in AI" meeting at UvA's Institute for Advanced Studies (IAS). Amsterdam (The Nederlands) [[Slides](/assets/slides/groningen_1may_RAMBELLI.pdf)]
 - May 2 -- *What Mechanisms Underlie Linguistic Generalizations In Large Language Models? Investigate How LLMs Process Generics and Noun-noun Compounds*. Invited Talk at GroNLP reading group. Groningen (The Netherlands) 
 [[Slides](/assets/slides/groningen_2may_RAMBELLI.pdf)]
 

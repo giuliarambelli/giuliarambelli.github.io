@@ -5,6 +5,11 @@ order: 3
 ---
 
 ## 2025
+**May 19, 2025** - I attended the cross-disciplinary meeting "*Analogy and Abstraction in AI*" at the UvA's Institute for Advanced Studies (IAS) in Amsterdam. The event brought together an exceptional group of 22 experts from diverse fields, including Melanie Mitchell (Santa Fe Institute), researchers from VU’s Computational Lexicography Lab (Pia Sommerauer, Filip Ilievski), the Institute for Logic, Language and Computation (UvA; Jelle Zuidema, Raquel Fernandez, Sandro Pezzelle), as well as psychologists Han van der Maas and Claire Stevenson, and philosopher Robert van Rooij.
+
+**May 2, 2025** - I presented my works carried on in the ABSTRACTION project at GroNLP reading group. 
+
+**May 1, 2025** - I presented the ERC-project ABSTRACTION at the CLCG Linguistic Lunch (Faculty of Arts, Groningen).
 
 **April 7 - May 7, 2025** - I'm in Groningen visiting the *Computational Linguistics Group* (Faculty of Arts - Rijksuniversiteit Groningen), collaborating with Prof. Tommaso Caselli on ongoing projects.
 
