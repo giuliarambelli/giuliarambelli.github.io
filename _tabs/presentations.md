@@ -5,7 +5,11 @@ order: 4
 ---
 
 ### 2025
+- June 23 -- *Generalizing by Analogy: The Key to Linguistic Creativity-Exploring Analogical Generalization via Noun-Noun Compound Interpretation.* Poster at the MEDAL summer school in computational modeling. Birmingham (UK).
+[[Poster](/assets/slides/MEDAL2025_POSTER_rambelli.png)]
+
 - May 19 -- *ABSTRACTION: Unlocking meaning from experience through language.* Presentation with prof. Marianna Bolognesi at the "Analogy and Abstraction in AI" meeting at UvA's Institute for Advanced Studies (IAS). Amsterdam (The Nederlands) [[Slides](/assets/slides/groningen_1may_RAMBELLI.pdf)]
+
 - May 2 -- *What Mechanisms Underlie Linguistic Generalizations In Large Language Models? Investigate How LLMs Process Generics and Noun-noun Compounds*. Invited Talk at GroNLP reading group. Groningen (The Netherlands) 
 [[Slides](/assets/slides/groningen_2may_RAMBELLI.pdf)]
 
