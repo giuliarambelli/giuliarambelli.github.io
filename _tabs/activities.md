@@ -5,7 +5,7 @@ order: 3
 ---
 
 ## 2025
-** June 23-27, 2025** -- I attended the [MEDAL](https://medal.ut.ee/event/medal-summer-school-in-computational-linguistics/) sumer school in computational modeling in Birmingham (UK). I also presentend a poster "Generalizing by Analogy: 
+**June 23-27, 2025** -- I attended the [MEDAL](https://medal.ut.ee/event/medal-summer-school-in-computational-linguistics/) sumer school in computational modeling in Birmingham (UK). I also presentend a poster "Generalizing by Analogy: 
 The Key to Linguistic Creativity-Exploring Analogical Generalization via Noun-Noun Compound Interpretation."
 **May 19, 2025** - I attended the cross-disciplinary meeting "*Analogy and Abstraction in AI*" at the UvA's Institute for Advanced Studies (IAS) in Amsterdam. The event brought together an exceptional group of 22 experts from diverse fields, including Melanie Mitchell (Santa Fe Institute), researchers from VU’s Computational Lexicography Lab (Pia Sommerauer, Filip Ilievski), the Institute for Logic, Language and Computation (UvA; Jelle Zuidema, Raquel Fernandez, Sandro Pezzelle), as well as psychologists Han van der Maas and Claire Stevenson, and philosopher Robert van Rooij.
 
