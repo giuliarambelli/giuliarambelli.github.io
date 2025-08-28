@@ -5,6 +5,10 @@ order: 3
 ---
 
 ## 2025
+**August 26-29** -- I attended [SLE2025](https://societaslinguistica.eu/sle2025/) in Bordeaux (France)! I presented the contribution "How Analogy Drives Language Productivity: Interpreting Novel Noun-noun Compounds" at the Workshop  Towards a better understanding of analogy: challenges, methods, and perspectives (organized by Lorenzo Moretti and Marianne Hundt)
+
+**July 27-August 2** -- I attended [ACL2025](https://2025.aclweb.org/) in Vienna (Austria)! Nice to present our paper as a poster ("How Humans and LLMs Organize Conceptual Knowledge: Exploring Subordinate Categories in Italian"), organizing a workshop [Analogy-Angle II](https://analogy-angle.github.io/), and meeting old and new collaborators and colleagues!
+
 **June 23-27, 2025** -- I attended the [MEDAL](https://medal.ut.ee/event/medal-summer-school-in-computational-linguistics/) sumer school in computational modeling in Birmingham (UK). I also presentend a poster "Generalizing by Analogy: 
 The Key to Linguistic Creativity-Exploring Analogical Generalization via Noun-Noun Compound Interpretation."
 
