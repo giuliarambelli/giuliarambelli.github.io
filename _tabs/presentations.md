@@ -5,6 +5,9 @@ order: 4
 ---
 
 ### 2025
+- August, 29 -- *How analogy drives language comprehension: Interpreting novel noun-noun compounds*. Oral presentation at the workshop " Towards a better understanding of analogy: challenges, methods, and perspectives" at SLE 2025.
+[[Slides]](/assets/slides/sle2025.pdf)
+
 - July, 9 -- *FONDAMENTI DI IA GENERATIVA E PROMPT ENGINEERING: Concetti, Terminologia e Metodi*. Ciclo di incontri IA PER UMANI(STI): APPLICAZIONI PRATICHE. Università Cattolica del Sacro Cuore. Online talk.
 [[Slides](/assets/slides/talk_online_9luglio2025.pdf)]
 
