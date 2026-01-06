@@ -4,7 +4,16 @@ icon: fas fa-graduation-cap
 order: 3
 ---
 
+## 2026
+
+
 ## 2025
+
+**November 19** -- I gave an online talk at the SynSem group at CU Boulder, named "Analogy in Language Processing: A Constructionist and Computational Approach to Productivity." A special thanks to Min-Chun Hsiao and prof. Laura Michaelis for inviting me and for the great exchange!
+
+**September 26-29** -- I attended [The Second International Workshop on Construction Grammars and NLP](https://sites.google.com/view/2ndcxgsnlpworkshop/home) in Düsseldorf (Germany)! I presented the contribution "Can Large Language Models Interpret Noun-Noun
+Compounds? A Linguistically-Motivated Study on Lexicalized and Novel Compounds". The workshop and the hosting a community-building event were an incredible opportunity to meet people intrerested in computational approaches to Construction Grammar!
+
 **August 26-29** -- I attended [SLE2025](https://societaslinguistica.eu/sle2025/) in Bordeaux (France)! I presented the contribution "How Analogy Drives Language Productivity: Interpreting Novel Noun-noun Compounds" at the Workshop  Towards a better understanding of analogy: challenges, methods, and perspectives (organized by Lorenzo Moretti and Marianne Hundt)
 
 **July 27-August 2** -- I attended [ACL2025](https://2025.aclweb.org/) in Vienna (Austria)! Nice to present our paper as a poster ("How Humans and LLMs Organize Conceptual Knowledge: Exploring Subordinate Categories in Italian"), organizing a workshop [Analogy-Angle II](https://analogy-angle.github.io/), and meeting old and new collaborators and colleagues!
