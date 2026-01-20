@@ -5,7 +5,7 @@ order: 2
 ---
 
 ## 2026
-
+**January 12-13** -- I was invited to visit the [Institute for Natural Language Processing (IMS)](https://www.ims.uni-stuttgart.de/en/) at the University of Stuttgart. I gave the talk "Analogy in Language Processing: A Constructionist and Computational Approach to Productivity." A special thanks to prof. [Sabine Schulte im Walde](http://www.schulteimwalde.de/) and all the people from the [SemRel](https://www.ims.uni-stuttgart.de/en/institute/researchgroups/semrel/) group!
 
 ## 2025
 
