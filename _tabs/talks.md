@@ -11,8 +11,6 @@ order: 4
 - July, 9 -- *FONDAMENTI DI IA GENERATIVA E PROMPT ENGINEERING: Concetti, Terminologia e Metodi*. Ciclo di incontri IA PER UMANI(STI): APPLICAZIONI PRATICHE. Università Cattolica del Sacro Cuore. Online talk.
 [[Slides](/assets/slides/talk_online_9luglio2025.pdf)]
 
-- June 23 -- *Generalizing by Analogy: The Key to Linguistic Creativity-Exploring Analogical Generalization via Noun-Noun Compound Interpretation.* Poster at the MEDAL summer school in computational modeling. Birmingham (UK).
-[[Poster](/assets/slides/MEDAL2025_poster_RAMBELLI.png)]
 
 - May 19 -- *ABSTRACTION: Unlocking meaning from experience through language.* Presentation with prof. Marianna Bolognesi at the "Analogy and Abstraction in AI" meeting at UvA's Institute for Advanced Studies (IAS). Amsterdam (The Nederlands) [[Slides](/assets/slides/groningen_1may_RAMBELLI.pdf)]
 
