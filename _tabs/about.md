@@ -21,7 +21,7 @@ In 2024, I published my first monograph, *Constructions and Compositionality: Co
 I published in major *CL conferences and workshops.
 
 
-I am part of the organizing committee of the international workshops [Cognitive Modeling and Computational Linguistics](https://cmclorg.github.io/) (since 2023), Co-Chair of the evaluation campaign [EVALITA 2026](https://www.evalita.it/campaigns/evalita-2026/evalita-2026-second-call-for-tasks/), and Area-Chair for [CoNLL 2026](https://www.conll.org/). I was also part of the organizing commitee for [Analogy-angle II](https://analogy-angle.github.io/). 
+I am part of the organizing committee of the international workshops [Cognitive Modeling and Computational Linguistics](https://cmclorg.github.io/) (since 2023) and [Bridges and Gaps between Formal and Computational Linguistics](https://brigap-workshop.github.io/2026/index), Co-Chair of the evaluation campaign [EVALITA 2026](https://www.evalita.it/campaigns/evalita-2026/evalita-2026-second-call-for-tasks/), and Area-Chair for [CoNLL 2026](https://www.conll.org/). I was also part of the organizing commitee for [Analogy-angle II](https://analogy-angle.github.io/). 
 
 Since 2026, I am also an Adjunct professor in Formal Methods and Models for Computational Linguistics (50hours),
 MA in [Computing Linguistics](https://www.unicatt.it/en/programmes/graduate-degree-programmes/linguistic-computing-milan.html) at the Università Cattolica del Sacro Cuore (Milan, Italy).
