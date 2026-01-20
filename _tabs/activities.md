@@ -1,7 +1,7 @@
 ---
 layout: page
 icon: fas fa-graduation-cap
-order: 3
+order: 2
 ---
 
 ## 2026

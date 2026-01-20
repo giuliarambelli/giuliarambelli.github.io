@@ -1,7 +1,7 @@
 ---
 layout: page
 icon: fas fa-file-alt
-order: 2
+order: 3
 ---
 
 <!--{% assign pubByYear =
