@@ -3,6 +3,9 @@ layout: page
 icon: fas fa-chalkboard
 order: 4
 ---
+### 2026
+- January, 12 -- *Analogy in language Processing: A constructionist and Computational Approach to Productivity*. Invited talk at the Institute for Natural Language Processing (IMS), University of Stuttgart. Stuttgart (Germany).
+[[Slides]](/assets/slides/IMS_Stuttgard_jan2026_Rambelli.pdf)
 
 ### 2025
 - August, 29 -- *How analogy drives language comprehension: Interpreting novel noun-noun compounds*. Oral presentation at the workshop " Towards a better understanding of analogy: challenges, methods, and perspectives" at SLE 2025.
