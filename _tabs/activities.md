@@ -5,9 +5,12 @@ order: 2
 ---
 
 ## 2026
-**March 20** -- I gave an oral presentation during the ILCB docs&post-docs Workshop "Communicating Minds: Humans, Machines, and Other Animals".
+**March 20** -- I gave an oral presentation during the ILCB docs&post-docs Workshop "Communicating Minds: Humans, Machines, and Other Animals" titled " From input to productivity:  Study compound formation through LMs".
+
 **February 11-12** -- I was invited to give a talk "GERARCHIE DIGITALI: COME L'AI CATEGORIZZA IL MONDO" ( Italian presentation of Pedrotti et al. 2025) as part of the [Evento finale PRIN 2022 WEMB](https://wembprin.github.io/event/). I also moderated the round table "Dalle rappresentazioni vettoriali all’IA generativa: convergenza funzionale o cognitiva?".
+
 **January 26-30** -- I gave the talk "Different Learners, Similar Strategies? How Input Shapes the Interpretation of Novel Compounds" introducing my new postdoc project. I gave the talk at the Language and speech dynamics group meeting (LPL, Jan. 27) and TALEP group meeting (LIS, Jan. 29).
+
 **January 12-13** -- I was invited to visit the [Institute for Natural Language Processing (IMS)](https://www.ims.uni-stuttgart.de/en/) at the University of Stuttgart. I gave the talk "Analogy in Language Processing: A Constructionist and Computational Approach to Productivity." A special thanks to prof. [Sabine Schulte im Walde](http://www.schulteimwalde.de/) and all the people from the [SemRel](https://www.ims.uni-stuttgart.de/en/institute/researchgroups/semrel/) group!
 
 ## 2025
