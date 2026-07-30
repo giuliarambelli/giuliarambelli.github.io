@@ -6,8 +6,7 @@ order: 1
 Bradly, I am focused on how humans and machines understand and generalize meaning. My research specifically investigates the tension between *compositionality* (interpreting word-by-word) and *analogy* (mapping known patterns to new ones). 
 
 
-I obtained a joint PhD degree in Linguistics from the University of Pisa (Italy) and Aix-Marseille University (France), 
-under the joint supervision of [Alessandro Lenci](https://people.unipi.it/alessandro_lenci/) and [Philippe Blache](https://cv.archives-ouvertes.fr/philippe-blache). 
+I obtained a joint PhD degree in Linguistics from the University of Pisa (Italy) and Aix-Marseille University (France),  under the joint supervision of [Alessandro Lenci](https://people.unipi.it/alessandro_lenci/) and [Philippe Blache](https://cv.archives-ouvertes.fr/philippe-blache). 
 After obtaining my PhD, I did a three-year postdoc at the University of Bologna as a member of the ERC-founded project [ABSTRACTION](https://www.abstractionproject.eu/), lead by [Marianna Bolognesi](https://www.unibo.it/sitoweb/m.bolognesi/en).
 
 
