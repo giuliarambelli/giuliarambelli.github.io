@@ -5,6 +5,14 @@ order: 2
 ---
 
 ## 2026
+**July 29-31** -- I attended the ESLP2026 conference in Lancaster (UK). I gave an oral presentation "Input to Productivity: Relational Abstraction in Compound Formation with Child-Directed Speech Language Models" presenting a work carried on with Abdellah Fourtassi and Laurent Prévot. My colleague Caterina Villani also presented "How does AI categorise the world? The organization of subordinate Italian categories in humans and LLMs" from our work published in Proceedings of ACL 2025. 
+
+**July 11** -- I attended [Brigap-3](https://brigap-workshop.github.io/2026/index) at Université Paris Cité (Paris, France). It has been a pleasure to be part of the organizer with Timothée Bernard and Emmanuele Chersoni (Hong Kong Polytechnic University), even though we experienced an intense heatwave!
+
+**July 6-7** -- I was part of the instructors of DANES Summer School and Hackathon (DANES ScHack 2026) - Ancient Language Processing track. I developed and delivered two afternoons of hands-on technical training for researchers working on ancient languages.
+
+**May 29** -- I partecipated to the Journée Conjointe "Séminaire Transversal LPL / Projet TALC* / Equipe ILCB IA & Cognition organized at the Laboratoire Parole et Language (Aix-en-Provence, France).
+
 **March 20** -- I gave an oral presentation during the ILCB docs&post-docs Workshop "Communicating Minds: Humans, Machines, and Other Animals" titled " From input to productivity:  Study compound formation through LMs".
 
 **February 11-12** -- I was invited to give a talk "GERARCHIE DIGITALI: COME L'AI CATEGORIZZA IL MONDO" ( Italian presentation of Pedrotti et al. 2025) as part of the [Evento finale PRIN 2022 WEMB](https://wembprin.github.io/event/). I also moderated the round table "Dalle rappresentazioni vettoriali all’IA generativa: convergenza funzionale o cognitiva?".
