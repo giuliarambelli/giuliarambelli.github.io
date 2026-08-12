@@ -3,7 +3,7 @@ layout: page
 icon: fas fa-graduation-cap
 order: 1
 ---
-Bradly, I am focused on how humans and machines understand and generalize meaning. My research specifically investigates the tension between *compositionality* (interpreting word-by-word) and *analogy* (mapping known patterns to new ones). 
+Broadly, I am focused on how humans and machines understand and generalize meaning. My research specifically investigates the tension between *compositionality* (interpreting word-by-word) and *analogy* (mapping known patterns to new ones). 
 
 
 I obtained a joint PhD degree in Linguistics from the University of Pisa (Italy) and Aix-Marseille University (France),  under the joint supervision of [Alessandro Lenci](https://people.unipi.it/alessandro_lenci/) and [Philippe Blache](https://cv.archives-ouvertes.fr/philippe-blache). 
