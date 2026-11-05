@@ -3,20 +3,31 @@ layout: page
 # The Home page layout
 ---
 <h1>Giulia Rambelli</h1>
-<div>I am a <b>Post-doc</b> for the <a href="https://www.ilcb.fr/">Institute of Language, Communication, and the Brain</a> 
-  (ILCB) at Aix-Marseille University (France). </div>
+<div>I am a <b>Post-doc</b> for the <a href="https://www.ilcb.fr/">Institute of Language, 
+  Communication, and the Brain</a> (ILCB) at Aix-Marseille University (France), hosted by 
+  the <a href="https://talep.lis-lab.fr/">TALEP</a> research group (LIS – Laboratoire d’Informatique et Systèmes) and 
+  <a href="lpl-aix.fr/en">Laboratoire Parole et Langage</a>.
+  <br />
+  In my project <em>"ANALOGY – Modeling Analogical Generalization in Children's Creative Compound 
+  Formation through Computational Models"</em>, I investigate the role of analogical mechanisms in linguistic generalization, with a particular focus on linguistic productivity. 
+Taking a computational perspective on how children comprehend and produce novel noun–noun compounds, the research aims to 
+shed light on the cognitive and linguistic processes underlying lexical innovation and the formation of new 
+linguistic combinations. I am collaborating with prof. 
+<a href="https://afourtassi.github.io/">Abdellah Fourtassi</a> and prof. 
+<a href="https://prevotlaurent.github.io/">Laurent Prévot</a>.
+</div>
 <br />
 <div>  I am a computational and cognitive linguist working at the intersection of artificial intelligence,
 theoretical linguistics, and human communication. My research investigates how meaning is
 constructed, generalized, and innovated in language, both by humans and (large) language models,
 through the study of compositionality, analogy, and conceptual abstraction. I combine deep
-linguistic expertise with computational methods to advance our understanding of computational models and language. <br />
+linguistic expertise with computational methods to advance our understanding of computational models and language. </div>
 
  <!-- My research is at the intersection between theoretical linguistics, cognitive science, and machine learning. 
   I investigate the meaning aspects of language, interested in the underlying mechanisms in sentence interpretation 
   and productivity. In my thesis, I studied the balance between compositional and direct access to meaning, 
   and how the cognitive process of analogy can be represented as a source of linguistic productivity from a 
-  theoretical and computational perspective. <br />-->
+  theoretical and computational perspective. <br 
 </div>
 <br />
 <div>  In my thesis, I studied the balance between compositional and direct access to meaning, 
@@ -57,17 +68,22 @@ MA in <a href="https://www.unicatt.it/en/programmes/graduate-degree-programmes/l
 
 <br />
 <div style="text-align: center; margin: 20px 0;">
-    <button type="button" class="btn btn-secondary" onclick="window.open('/assets/cv_Rambelli_2025_June.pdf', '_blank')" style="margin-left: 10px;">
+    <button type="button" class="btn btn-secondary" onclick="window.open('/assets/cv_Rambelli_2026.pdf', '_blank')" style="margin-left: 10px;">
         Download CV
     </button>
 </div>
 
 <h2>News</h2>
 <ul>
-    <li>20.03.2026 - I have an oral talk at the ILCB docs&post-docs Workshop</li>
-    <li>12.01.2026 - I am invited to give a talk at the Institute for Natural Language Processing (IMS) at the University of Stuttgart.</li> 
-    <li>1.01.2026 - Happy to announce that I started my Postoctoral Fellowship at the Aix-Marseille University, under the joint supervision of 
-      prof. Abdellah Fourtassi and Laurent Prévot! </li>
+    <li>I’m really happy to share that, from January 2027, I’ll be starting a permanent position as a 
+      Lecturer in AI, Language and Human communication at <a href="https://www.ucl.ac.uk/ioe/">UCL Institute of Education</a>.</li>
+    <li>26.10.2026 - I was invited to join the <a href="https://cifar.ca/cifarnews/2026/09/16/three-inaugural-horizon-networks-selected-by-cifar-to-advance-interdisciplinary-research-in-early-childhood-and-youth-development/"> CIFAR Horizon 
+      Networks meeting</a> in Barcelona (Spain)</li> in the Learning through conversation track.
+    <li>29.07.2026 - I gave an oral presentation "Input to Productivity: Relational Abstraction in Compound Formation with Child-Directed Speech Language Models" at ESLP in Lancaster.</li>
+    <!--<li>20.03.2026 - I have an oral talk at the ILCB docs&post-docs Workshop</li>-->
+    <li>12.01.2026 - I was invited to give a talk at the Institute for Natural Language Processing (IMS) at the University of Stuttgart.</li> 
+    <!--<li>1.01.2026 - Happy to announce that I started my Postoctoral Fellowship at the Aix-Marseille University, under the joint supervision of 
+      prof. Abdellah Fourtassi and Laurent Prévot! </li>-->
    <!--<li>24.09.2025 - I will attend the <a href="https://sites.google.com/view/2ndcxgsnlpworkshop/home">CxGs+NLP</a> workshop in Düsseldorf!</li>
     <li>26.08.2025 - I am attending the <a href="https://societaslinguistica.eu/sle2025/">SLE2025</a> in Bordeaux with a contribution in the 
       workshop "Towards a better understanding of analogy".</li>
@@ -97,7 +113,7 @@ MA in <a href="https://www.unicatt.it/en/programmes/graduate-degree-programmes/l
     {% endfor %}
 
 <h2>Latest publications</h2>
-{% assign publications = site.publications  |  sort: "publications.date" | reverse %}
+{% assign publications = site.publications  |  sort: "date" | reverse %}
 
 <ul>
 {% for pub in publications limit:3 %}

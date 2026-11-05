@@ -5,6 +5,9 @@ order: 2
 ---
 
 ## 2026
+**October 26-27** -- I was invited to join the <a href="https://cifar.ca/cifarnews/2026/09/16/three-inaugural-horizon-networks-selected-by-cifar-to-advance-interdisciplinary-research-in-early-childhood-and-youth-development/"> CIFAR Horizon Networks meeting</a> in Barcelona (Spain). I joined the Learning through Conversation track, co-led by Rene Kizilcec (Cornell University) and Sho Tsuji (CNRS / École Normale Supérieure). I had the great opportunity to meet researchers from different fields, all interested in exploring key questions such as: How does conversation input help children move from concrete experience to abstract concepts? How does this process vary across children, languages, cultures and learning environments? And how this knowledge can be put into educational settings and AI-educational tools?
+
+
 **July 29-31** -- I attended the ESLP2026 conference in Lancaster (UK). I gave an oral presentation "Input to Productivity: Relational Abstraction in Compound Formation with Child-Directed Speech Language Models" presenting a work carried on with Abdellah Fourtassi and Laurent Prévot. My colleague Caterina Villani also presented "How does AI categorise the world? The organization of subordinate Italian categories in humans and LLMs" from our work published in Proceedings of ACL 2025. 
 
 **July 11** -- I attended [Brigap-3](https://brigap-workshop.github.io/2026/index) at Université Paris Cité (Paris, France). It has been a pleasure to be part of the organizer with Timothée Bernard and Emmanuele Chersoni (Hong Kong Polytechnic University), even though we experienced an intense heatwave!
